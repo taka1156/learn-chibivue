@@ -8,6 +8,8 @@ touch packages/runtime-core/apiCreateApp.ts
 touch packages/runtime-core/component.ts
 touch packages/runtime-core/componentOptions.ts
 touch packages/runtime-core/renderer.ts
+touch packages/runtime-core/vnode.ts
+touch packages/runtime-core/h.ts
 
 ## dom
 touch packages/runtime-dom/index.ts
